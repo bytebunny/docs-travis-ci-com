@@ -104,6 +104,8 @@ and later, use `xcode9.4` (or later).
 
 ## Languages
 
+- C
+- C++
 - Go
 - Java
 - Nodejs
